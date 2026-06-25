@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.type1{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #f5acb6;
+}
+
+.type2{
+    font-size: 24px;
+}
+
+#uni1{
+    color: #0000ff;
+    font-size: 36px;
+}
+#uni2{
+    background-color: #aef5ba;
+    font-weight: bold;
+}
